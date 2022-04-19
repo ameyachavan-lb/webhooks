@@ -1,0 +1,5 @@
+APPSETTING_MKDB_USER = geras_admin
+APPSETTING_MKDB_HOST = geras-01.postgres.database.azure.com
+APPSETTING_MKDB_DBNAME = marketing_db
+APPSETTING_MKDB_PASSWORD = Litmus123!@#
+APPSETTING_SECRET_KEY = secret-key-litmus
